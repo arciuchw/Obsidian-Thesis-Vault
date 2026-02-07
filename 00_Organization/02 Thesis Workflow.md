@@ -6,15 +6,15 @@
 
 ## Thesis Outline & Status
 
-| Section | Status | Draft? | Sources | Notes |
-| --- | --- | --- | --- | --- |
-| **1. Introduction** | ⬜ Not Started | No | | |
-| **2. Background** | ⬜ Not Started | No | | |
-| **3. Related Work** | ⬜ Not Started | No | | |
-| **4. Methodology** | ⬜ Not Started | No | | |
-| **5. Results** | ⬜ Not Started | No | | |
-| **6. Discussion** | ⬜ Not Started | No | | |
-| **7. Conclusion** | ⬜ Not Started | No | | |
+| Section             | Status        | Draft? | Sources | Notes |
+| ------------------- | ------------- | ------ | ------- | ----- |
+| **1. Introduction** | ⬜ Not Started | No     |         |       |
+| **2. Background**   | ⬜ Not Started | No     |         |       |
+| **3. Related Work** | ⬜ Not Started | No     |         |       |
+| **4. Methodology**  | ⬜ Not Started | No     |         |       |
+| **5. Results**      | ⬜ Not Started | No     |         |       |
+| **6. Discussion**   | ⬜ Not Started | No     |         |       |
+| **7. Conclusion**   | ⬜ Not Started | No     |         |       |
 
 ---
 
